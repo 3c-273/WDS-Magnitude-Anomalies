@@ -14,3 +14,5 @@ or are marked as uncertain are not included in this study. All entries in the
 lists below were found to have anomalous magnitudes.
 
 The code required to do this study in the file MagnitudeAnomaliesInTheWdsSourceCode.zip
+
+The list itself can be found here: http://mainsequence.org/html/wds/magnitudeStudy/html/WdsMagnitudeAnomalies.html
