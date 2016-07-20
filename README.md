@@ -13,4 +13,4 @@ Johnson red band, have no primary visual magnitude, have no precise coordinates,
 or are marked as uncertain are not included in this study. All entries in the
 lists below were found to have anomalous magnitudes.
 
-The code required to do this study is in this hub.
+The code required to do this study in the file MagnitudeAnomaliesInTheWdsSourceCode.zip
